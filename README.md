@@ -102,4 +102,4 @@ This project is licensed under the MIT License.
 
 Visit the live application: https://indodiego.github.io/criptosim
 
-<!-- Trigger workflow redeploy -->
+<!-- Trigger auto deploy with Actions -->
